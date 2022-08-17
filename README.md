@@ -4,7 +4,10 @@
 - 🔭 Atualmente trabalhando com front-end
 - 🌱 Estudando Typescript, Javascript, CSS, Angular e Java
 - 🎓 Graduando em Engenharia de Software
-- 😄 Pronouns: Ele/Dele
+- ⚡  Em constante aprendizado no desenvolvimento de sistemas, afim do aprimoramento das técnicas.
+
+"A essência do conhecimento consiste em aplicá-lo, uma vez possuído"
+
 
 <div align="center">
   <a href="https://github.com/brunoGamero">
