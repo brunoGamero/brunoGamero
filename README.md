@@ -6,7 +6,7 @@
 - 🎓 Graduando em Engenharia de Software
 - ⚡  Em constante aprendizado no desenvolvimento de sistemas, afim do aprimoramento das técnicas.
 
-
+![BRUNO GAMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoGamero&show_icons=true&theme=transparent)
 
 
 
